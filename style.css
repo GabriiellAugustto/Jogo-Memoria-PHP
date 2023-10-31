@@ -1,0 +1,39 @@
+body{
+
+	background-image: url('img/fundo.jpg');
+	text-align: center;
+}
+
+h1{
+	color: #111;
+	font-size: 50px;
+	font-style: italic;
+	margin-bottom: 50px;
+	
+}
+#Jogo {
+  width: 500px;
+  height: 400px;
+  border: solid #111;
+  padding-top: 50px;
+
+}
+
+#but {
+  background-color: #111;
+  border-radius: 20px;
+  padding: 20px;
+  color: #fff;
+}
+
+p{
+  size: 30px;
+
+}
+
+}
+#footer {
+    margin-top: 250px;
+    text-align:center;
+    padding-top: 50px
+  }
